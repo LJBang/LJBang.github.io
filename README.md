@@ -1,0 +1,2 @@
+# LJBang.github.io
+mypage
