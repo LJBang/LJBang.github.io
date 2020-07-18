@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/jasper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jasper2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jekyll-theme-prologue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/startbootstrap-clean-blog" vcs="Git" />
+>>>>>>> 8e4c4c789bd690ae01eb9311968a94d3f18cd065
   </component>
 </project>
